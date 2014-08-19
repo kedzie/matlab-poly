@@ -1,0 +1,3 @@
+[submodule "bnt"]
+	path = bnt
+	url = git@github.com:bayesnet/bnt
